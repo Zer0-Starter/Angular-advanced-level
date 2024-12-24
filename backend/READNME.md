@@ -1,0 +1,1 @@
+To run the server, enter this command: `npx json-server db-json/recipes.json` 
